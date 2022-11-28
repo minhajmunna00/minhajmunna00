@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajmunna00&label=Profile%20views&color=5c1fea&style=flat" alt="minhajmunna00" /> </p>
 
-- 🔭 I’m currently working on **a group project named Collaborative Notes Hub.**
+- 🔭 I’m currently working on a **group project** named **Collaborative Notes Hub**
 
-- 🌱 I’m currently learning **Algorithms, Part I Princeton University**
+- 🌱 Learning **Algorithms, Part I** by **Princeton University** on **coursera**
 
-- 👯 I’m looking to collaborate on **github**
+- 👯 I would like to collaborate on **github**
 
 - 💬 Ask me about **web development**
 
