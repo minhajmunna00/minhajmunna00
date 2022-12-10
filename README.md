@@ -1,4 +1,4 @@
-<h1 align="center">Hii 👋, I'm Md Minhajur Rahman Munna...</h1>
+<h1 align="center">Hiii 👋, I'm Md Minhajur Rahman Munna...</h1>
 <h3 align="center">Student of Computer Science(BSc) at Brunel University London</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/11jacPItBsJDLa/giphy.gif?cid=790b7611423ff2079a8dc8cab5c13a4aba9fd9c9d2a7883a&rid=giphy.gif&ct=g">
 
