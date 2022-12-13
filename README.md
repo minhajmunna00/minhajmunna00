@@ -10,7 +10,7 @@
 
 - 👯 I would like to collaborate on **github**
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **Software development**
 
 - 📫 Reach me through **minhaj.munnaa@gmail.com**
 
