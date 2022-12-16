@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a **group project** named **Collaborative Notes Hub**
 
-- 🌱 Learning **Algorithms, Part I** by **Princeton University** on **coursera**
+- 🌱 Learning **Algorithms, Part I** by **Princeton University** on **Coursera**
 
 - 👯 I would like to collaborate on **github**
 
