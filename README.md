@@ -8,7 +8,7 @@
 
 - 🌱 Learning **Algorithms, Part I** by **Princeton University** on **Coursera**
 
-- 👯 I would like to collaborate on **github**
+- 👯 I would like to collaborate on **GitHub*
 
 - 💬 Ask me about **Software Development**
 
